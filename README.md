@@ -1,6 +1,6 @@
 # infra-word-e-moodle
 Projeto que demostra a instalação e utilização inicial do **CMS WordPress** e do **AVA Moodle**.
-:warning: **Todos os procedimentos foram feitos em uma infraestrutura LAMP(Linux, Apache, MySQL e PHP) completamente funcional e em usuário root**
++:warning: **Todos os procedimentos foram feitos em uma infraestrutura LAMP(Linux, Apache, MySQL e PHP) completamente funcional e em usuário root**
 # Instalando o WordPress :pencil:
 Comece Baixando o instalador tar.gz do WordPress
 ```bash
