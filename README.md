@@ -24,9 +24,9 @@ Reinicie o Apache
 $ /etc/init.d/apache2 restart
 ```
 Feito isso acesse **localhost/wordpress** onde irá aparecer uma tela como a imagem abaixo, preencha os campos e clique Finalizar
-(Print da tela)
+![imagemwordpress](img/wordp1.jpeg)
 Pronto! Você já possui seu primeiro site e ambiente Wordpress para trabalhar.
-(Print da tela)
+![imagemwordpress](img/wordp2.jpeg)
 # Instalando o Moodle :pencil:
 Para esse iremos precisar do navegador de terminal links
 ```bash
@@ -42,7 +42,7 @@ $ tar -xvf moodle-3.10.3.tgz
 ```
 Agora acesse o site **localhost/moodle** você verá a primeira tela do MOODLE, selecione a linguagem adequada para a instalação: Português – Brasil<br/>
 Clique no botão **Next**
-(Print da Tela)
+![imagemmoodle](img/moodle1.jpeg)
 O moodle irá fazer uma verificação no sistema e mostrará uma tela que serve para definir se o sistema é capaz de “rodar” o moodle ou não<br/>
 Se todos os itens estiverem OK clique no botão Próximo<br/>
 A próxima tela irá mostrar o endereço que será usado para acessar o moodle<br/>
@@ -130,7 +130,7 @@ Para continuar clique no botão **Sim**<br/>
 A próxima tela irá criar as tabelas no banco de dados do moodle<br/>
 Todas as tabelas serão criadas agora<br/>
 Ao final de cada tela de criação, deverá aparecer uma mensagem de Sucesso, continue até criar todas as tabelas com Sucesso<br/>
-(Print da Tela)
+![imagemmoodle](img/moodle2.jpeg)
 Um backup será realizado e a mensagem de Sucesso deverá aparecer na tela<br/>
 Continue clicando em **Continue**
 
@@ -146,3 +146,4 @@ As próximas opções podem ser deixadas como padrão<br/>
 Clique no botão **Save Changes**
 
 **PRONTO! O MOODLE ESTÁ PRONTO PARA SER UTILIZADO.**
+![imagemmoodle](img/moodle3.jpeg)
